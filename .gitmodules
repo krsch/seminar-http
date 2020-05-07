@@ -1,0 +1,6 @@
+[submodule "external/beast"]
+	path = external/beast
+	url = https://github.com/boostorg/beast.git
+[submodule "external/cpr"]
+	path = external/cpr
+	url = https://github.com/whoshuu/cpr.git
